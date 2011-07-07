@@ -1,4 +1,4 @@
-Order Price Sync
+Order Price Sync 0.60.x
 ================
 
 This extension adds an observer that watches product and variant records for price changes. 
